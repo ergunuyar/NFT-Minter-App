@@ -1,4 +1,4 @@
-# NFT-App-main
+# NFT-Minter-App
 
 
 1. Herhangi bir Web3 wallet (MetaMask vb) indirilip login olunur.
