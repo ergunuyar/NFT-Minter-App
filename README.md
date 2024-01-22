@@ -11,10 +11,10 @@
 
 5. Terminalden "npm run dev" komutu ile proje çalıştırılır. Bilgisayarın atadığı port değeri kullanılarak "http://localhost:port" browser'dan açılır.
 
-6. Açılan sayfada ilk olarak "Name" kısmı doldurulup, ardından "Choose File / Dosya Seç" butonu tıklanarak resim seçilir.
+6. Açılan sayfada ilk olarak "Name" kısmı doldurulup, ardından "Dosya Seç" butonu tıklanarak resim seçilir.
 
 4. Sonrasında, NFT'nin sahip olması istenen özellikler "key-value" alanlarına eklenir.
 
-5. NFT'nin başlangıç fiyatı belirlNdikten sonra "Mint" butonu tıklanarak işlem tamamlanır.
+5. NFT'nin başlangıç fiyatı belirlendikten sonra "Mint" butonu tıklanarak işlem tamamlanır.
 
 ![image](https://github.com/ergunuyar/NFT-Minter-App/blob/main/NFT-App-main/src/assets/NFT_Minter_sc.png)
