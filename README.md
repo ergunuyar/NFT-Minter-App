@@ -17,4 +17,4 @@
 
 5. NFT'nin başlangıç fiyatı belirlNdikten sonra "Mint" butonu tıklanarak işlem tamamlanır.
 
-![image](https://github.com/ergunuyar/NFT-Minter-App/blob/main/NFT-App-main/src/assets/cable_car.jpg)
+![image](https://github.com/ergunuyar/NFT-Minter-App/blob/main/NFT-App-main/src/assets/NFT_Minter_sc.png)
