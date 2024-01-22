@@ -16,3 +16,5 @@
 4. Sonrasında, NFT'nin sahip olması istenen özellikler "key-value" alanlarına eklenir.
 
 5. NFT'nin başlangıç fiyatı belirlNdikten sonra "Mint" butonu tıklanarak işlem tamamlanır.
+
+![image](https://github.com/ergunuyar/NFT-Minter-App/blob/main/NFT-App-main/src/assets/cable_car.jpg)
